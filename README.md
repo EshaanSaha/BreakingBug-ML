@@ -1,4 +1,6 @@
 # Breaking Bug - Machine Learning Repository
+errors file
+https://docs.google.com/spreadsheets/d/1nQYZfHzwy1SwMehasORZqgv5iKfe9lTl2rbkHJKeXhE/edit?usp=sharing
 
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyE_BreakingBugBanner.png?auto=format,compress" alt="Breaking Bug Poster">
 
